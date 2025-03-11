@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67c554c280f39e670618a456"
+  },
+  "name": "Bhavesh",
+  "age": 19,
+  "sem": 6
+},
+{
+  "_id": {
+    "$oid": "67c556a6826a9b5cbc686d74"
+  },
+  "name": "Lokesh",
+  "age": 20,
+  "sem": 6
+},
+{
+  "_id": {
+    "$oid": "67c5591cc3eb1621f92ae532"
+  },
+  "name": "Mahesh",
+  "age": 19,
+  "sem": 5
+},
+{
+  "_id": {
+    "$oid": "67c55eb11fef48f76a74712d"
+  },
+  "name": "Hakshitha",
+  "age": 20,
+  "sem": 8
+}]
